@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/nidhics/ToDoRedux/static/css/main.de15eead.css",
-    "main.js": "/nidhics/ToDoRedux/static/js/main.68d7522d.js",
-    "static/js/27.ac47aace.chunk.js": "/nidhics/ToDoRedux/static/js/27.ac47aace.chunk.js",
-    "index.html": "/nidhics/ToDoRedux/index.html"
+    "main.css": "/nidhics/static/css/main.de15eead.css",
+    "main.js": "/nidhics/static/js/main.6feb0c38.js",
+    "static/js/27.ac47aace.chunk.js": "/nidhics/static/js/27.ac47aace.chunk.js",
+    "index.html": "/nidhics/index.html"
   },
   "entrypoints": [
     "static/css/main.de15eead.css",
-    "static/js/main.68d7522d.js"
+    "static/js/main.6feb0c38.js"
   ]
 }
